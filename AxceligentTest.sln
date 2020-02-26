@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- John the Robot", "3- Joh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnTheRobot", "3- John the Robot\JohnTheRobot\JohnTheRobot.csproj", "{70ECF150-F759-496C-A7F7-D3D045483B07}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Alexa Settings", "4- Alexa Settings", "{7BCCDC1B-71B8-46E4-ADD2-541161A4E8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaSettings", "4- Alexa Settings\AlexaSettings\AlexaSettings.csproj", "{FFC1E23D-D995-43CE-9F04-49DE7939D86A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{70ECF150-F759-496C-A7F7-D3D045483B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70ECF150-F759-496C-A7F7-D3D045483B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70ECF150-F759-496C-A7F7-D3D045483B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC1E23D-D995-43CE-9F04-49DE7939D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC1E23D-D995-43CE-9F04-49DE7939D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC1E23D-D995-43CE-9F04-49DE7939D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC1E23D-D995-43CE-9F04-49DE7939D86A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{ADDE376A-FA9D-40D3-8833-DECC809AF02C} = {C13187CF-7A04-45FD-8D64-D473701B8A4B}
 		{1210B294-5322-45DB-8CF9-934B97988E71} = {CCED4E7B-66B5-439D-9430-79097AE6CE38}
 		{70ECF150-F759-496C-A7F7-D3D045483B07} = {5C42C63D-8DBE-4104-AA24-FB4AEE632B96}
+		{FFC1E23D-D995-43CE-9F04-49DE7939D86A} = {7BCCDC1B-71B8-46E4-ADD2-541161A4E8DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05A4B56B-53FD-4F27-B771-8CCC90610E52}
