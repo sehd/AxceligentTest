@@ -17,21 +17,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- User Class", "2- User Cl
 		2- User Class\Question 2.docx = 2- User Class\Question 2.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserClass", "2- User Class\UserClass\UserClass.csproj", "{1210B294-5322-45DB-8CF9-934B97988E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserClass", "2- User Class\UserClass\UserClass.csproj", "{1210B294-5322-45DB-8CF9-934B97988E71}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- John the Robot", "3- John the Robot", "{5C42C63D-8DBE-4104-AA24-FB4AEE632B96}"
 	ProjectSection(SolutionItems) = preProject
 		3- John the Robot\Question 3.docx = 3- John the Robot\Question 3.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnTheRobot", "3- John the Robot\JohnTheRobot\JohnTheRobot.csproj", "{70ECF150-F759-496C-A7F7-D3D045483B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JohnTheRobot", "3- John the Robot\JohnTheRobot\JohnTheRobot.csproj", "{70ECF150-F759-496C-A7F7-D3D045483B07}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- Alexa Settings", "4- Alexa Settings", "{7BCCDC1B-71B8-46E4-ADD2-541161A4E8DD}"
 	ProjectSection(SolutionItems) = preProject
 		4- Alexa Settings\Question 4.docx = 4- Alexa Settings\Question 4.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaSettings", "4- Alexa Settings\AlexaSettings\AlexaSettings.csproj", "{FFC1E23D-D995-43CE-9F04-49DE7939D86A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaSettings", "4- Alexa Settings\AlexaSettings\AlexaSettings.csproj", "{FFC1E23D-D995-43CE-9F04-49DE7939D86A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- Method Signature", "5- Method Signature", "{72E77FE2-116B-4620-9A42-CBFD86DEAD51}"
 	ProjectSection(SolutionItems) = preProject
@@ -53,7 +53,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8- (optional) Typescript Ma
 		8- (optional) Typescript Mastery\Question 8.docx = 8- (optional) Typescript Mastery\Question 8.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionGame", "6- Construction Game\ConstructionGame\ConstructionGame.csproj", "{5CB2E9F9-CECB-46E1-8741-0E49D2252156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructionGame", "6- Construction Game\ConstructionGame\ConstructionGame.csproj", "{5CB2E9F9-CECB-46E1-8741-0E49D2252156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
