@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConstructionGame.BuildingParts;
+using System;
 using System.Collections.Generic;
 
 namespace ConstructionGame

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConstructionGame
+namespace ConstructionGame.BuildingParts
 {
     class BedRoom : IBuildingPart
     {

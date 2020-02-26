@@ -4,19 +4,18 @@ using System.Reflection;
 
 namespace AlexaSettings
 {
-    class AlexaOptions
+    class AlexaOptions : IAlexaOptions
     {
         private readonly Dictionary<string, PropertyInfo> formatters;
+        public string GreetingMessage { get; set; }
+        public string OwnerName { get; set; }
 
         public AlexaOptions()
         {
-            formatters = typeof(AlexaOptions).GetProperties()
+            formatters = GetType().GetProperties()
                 .Where(p => p.Name != nameof(GreetingMessage))
                 .ToDictionary(p => $"{{{p.Name}}}", p => p);
         }
-
-        public string GreetingMessage { get; set; }
-        public string OwnerName { get; set; }
 
         public string GetMessage()
         {

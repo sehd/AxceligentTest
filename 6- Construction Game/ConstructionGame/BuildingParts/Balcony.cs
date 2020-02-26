@@ -1,4 +1,4 @@
-﻿namespace ConstructionGame
+﻿namespace ConstructionGame.BuildingParts
 {
     class Balcony : IBuildingPart
     {
