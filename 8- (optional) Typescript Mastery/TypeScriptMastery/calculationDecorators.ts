@@ -7,7 +7,6 @@ export function subtract(subtractNumber: number): Function {
         descriptor.value = function (num: number) {
             return originalMethod(num) - subtractNumber;
         }
-        //console.log(descriptor.value(1));
         return descriptor;
     }
 }
@@ -21,7 +20,6 @@ export function multiply(multiplyNum: number): Function {
         descriptor.value = function (num: number) {
             return originalMethod(num) * multiplyNum;
         }
-        //console.log(descriptor.value(1));
         return descriptor;
     }
 }

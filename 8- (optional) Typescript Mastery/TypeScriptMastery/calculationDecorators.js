@@ -9,7 +9,6 @@ function subtract(subtractNumber) {
         descriptor.value = function (num) {
             return originalMethod(num) - subtractNumber;
         };
-        //console.log(descriptor.value(1));
         return descriptor;
     };
 }
@@ -23,7 +22,6 @@ function multiply(multiplyNum) {
         descriptor.value = function (num) {
             return originalMethod(num) * multiplyNum;
         };
-        //console.log(descriptor.value(1));
         return descriptor;
     };
 }
