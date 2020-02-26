@@ -16,7 +16,7 @@ namespace AlexaSettings
 
         internal string Talk()
         {
-            return options.GreetingMessage.Replace("{OwnerName}", options.OwnerName);
+            return options.GetMessage();
         }
 
         internal void Configure(Action<AlexaOptions> setup)

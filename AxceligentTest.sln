@@ -50,7 +50,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7- ES6 Import", "7- ES6 Imp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8- (optional) Typescript Mastery", "8- (optional) Typescript Mastery", "{40A52CFC-E911-4180-8AD2-5BB8F43A1120}"
 	ProjectSection(SolutionItems) = preProject
+		8- (optional) Typescript Mastery\TypeScriptMastery\app.js = 8- (optional) Typescript Mastery\TypeScriptMastery\app.js
+		8- (optional) Typescript Mastery\TypeScriptMastery\app.ts = 8- (optional) Typescript Mastery\TypeScriptMastery\app.ts
+		8- (optional) Typescript Mastery\TypeScriptMastery\calculationDecorators.js = 8- (optional) Typescript Mastery\TypeScriptMastery\calculationDecorators.js
+		8- (optional) Typescript Mastery\TypeScriptMastery\calculationDecorators.ts = 8- (optional) Typescript Mastery\TypeScriptMastery\calculationDecorators.ts
 		8- (optional) Typescript Mastery\Question 8.docx = 8- (optional) Typescript Mastery\Question 8.docx
+		8- (optional) Typescript Mastery\TypeScriptMastery\tsconfig.json = 8- (optional) Typescript Mastery\TypeScriptMastery\tsconfig.json
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructionGame", "6- Construction Game\ConstructionGame\ConstructionGame.csproj", "{5CB2E9F9-CECB-46E1-8741-0E49D2252156}"
